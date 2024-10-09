@@ -18,5 +18,6 @@ public class Pruebasds {
         //ya pues estoy cansado jurado ya enseña algo al menos 
         System.out.println("ya pues jurado enseña pues");
         // jajajajaj
+        System.out.println("jajajja ya debes estar cansada de tanto codigo xd");
     }
 }
