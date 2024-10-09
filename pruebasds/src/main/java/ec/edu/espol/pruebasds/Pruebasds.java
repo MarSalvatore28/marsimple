@@ -20,6 +20,6 @@ public class Pruebasds {
         // jajajajaj
         System.out.println("jajajja ya debes estar cansada de tanto codigo xd");
 
-        //olii
+        //olii como estas
     }
 }
