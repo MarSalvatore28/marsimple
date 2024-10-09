@@ -16,5 +16,7 @@ public class Pruebasds {
         System.out.println("ola mar  ");
         System.out.println("ola como estas danita ");
         //ya pues estoy cansado jurado ya enseña algo al menos 
+        System.out.println("ya pues jurado enseña pues");
+        // jajajajaj
     }
 }
