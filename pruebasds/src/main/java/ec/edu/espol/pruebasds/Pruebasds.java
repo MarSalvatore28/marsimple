@@ -11,6 +11,6 @@ package ec.edu.espol.pruebasds;
 public class Pruebasds {
 
     public static void main(String[] args) {
-        System.out.println("hola yo soy la version original Mar Salvatore yo soy el mejor obvio");
+        System.out.println("hola soy yo la persona b ");
     }
 }
