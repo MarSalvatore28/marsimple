@@ -20,6 +20,6 @@ public class Pruebasds {
         // jajajajaj
         System.out.println("jajajja ya debes estar cansada de tanto codigo xd");
 
-        //danielita ya es mujer soltera xd
+        //entonces escribo lo que me de la gana 
     }
 }
